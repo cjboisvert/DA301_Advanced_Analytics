@@ -4,4 +4,4 @@ Contained in the repo are:
 My essay
 My Jupyter Notebook
 My R Script
-A link to my presentation, stored on the G-Drive.
+A link to my presentation, stored on the G-Drive: https://drive.google.com/file/d/1YBwWJfwOlrcKrIu85terQuDQtiHSGu03/view?usp=share_link . 
